@@ -1,2 +1,4 @@
 # hello-world
-repo-samp
+
+Hello Pirates,
+I'm gonna be the king of the pirates!
